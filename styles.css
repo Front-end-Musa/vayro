@@ -202,6 +202,18 @@ h4 {
   text-wrap: balance;
 }
 
+.brand-badge {
+  width: fit-content;
+  font-size: 0.78rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: #d7e7f8;
+  border: 1px solid rgba(255, 255, 255, 0.36);
+  background: rgba(9, 25, 42, 0.4);
+  border-radius: 999px;
+  padding: 0.36rem 0.78rem;
+}
+
 .title-paragraph {
   font-size: clamp(1rem, 1.5vw, 1.28rem);
   color: #d7e7f8;
